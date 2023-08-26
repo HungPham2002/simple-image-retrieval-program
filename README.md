@@ -13,3 +13,6 @@ Download dataset or add shortcut if using Google Colab: <a href="https://drive.g
 
 ## Pipeline
 ![pipeline](https://github.com/HungPham2002/simple-image-retrieval-system/blob/main/figs/pipeline.png)
+
+## Demo
+![Demo](https://github.com/HungPham2002/simple-image-retrieval-system/blob/main/figs/demo.png)
